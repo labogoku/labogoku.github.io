@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://labogoku.github.io/</id>
     <title>labogoku</title>
-    <updated>2019-10-30T07:19:45.091Z</updated>
+    <updated>2019-10-30T07:22:52.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://labogoku.github.io/"/>
     <link rel="self" href="https://labogoku.github.io//atom.xml"/>
@@ -16,7 +16,8 @@
         <link href="https://labogoku.github.io//post/yun-ying-lei">
         </link>
         <updated>2019-10-30T07:14:50.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://labogoku.github.io//post-images/1572419762470.gif" alt=""></figure>
+        <content type="html"><![CDATA[<p>此分类为运营类项目展示<!-- more --><br>
+<img src="https://labogoku.github.io//post-images/1572419762470.gif" alt=""></p>
 ]]></content>
     </entry>
     <entry>
