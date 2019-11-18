@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://labogoku.github.io/</id>
     <title>labogoku</title>
-    <updated>2019-11-18T08:57:33.060Z</updated>
+    <updated>2019-11-18T08:58:19.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://labogoku.github.io/"/>
     <link rel="self" href="https://labogoku.github.io//atom.xml"/>
@@ -10,13 +10,6 @@
     <logo>https://labogoku.github.io//images/avatar.png</logo>
     <icon>https://labogoku.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, labogoku</rights>
-    <entry>
-        <title type="html"><![CDATA[插画类]]></title>
-        <id>https://labogoku.github.io//post/cha-hua-lei</id>
-        <link href="https://labogoku.github.io//post/cha-hua-lei">
-        </link>
-        <updated>2019-11-18T06:41:49.000Z</updated>
-    </entry>
     <entry>
         <title type="html"><![CDATA[运营类]]></title>
         <id>https://labogoku.github.io//post/yun-ying-lei</id>
@@ -27,5 +20,12 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>此分类为运营类项目展示</p>
 ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[插画类]]></title>
+        <id>https://labogoku.github.io//post/cha-hua-lei</id>
+        <link href="https://labogoku.github.io//post/cha-hua-lei">
+        </link>
+        <updated>2019-10-18T06:41:49.000Z</updated>
     </entry>
 </feed>
