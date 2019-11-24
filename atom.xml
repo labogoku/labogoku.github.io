@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://labogoku.github.io/</id>
-    <title>labogoku</title>
-    <updated>2019-11-24T10:41:52.214Z</updated>
+    <title>Labogoku</title>
+    <updated>2019-11-24T10:52:52.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://labogoku.github.io/"/>
     <link rel="self" href="https://labogoku.github.io//atom.xml"/>
-    <subtitle>怀良辰以孤往</subtitle>
     <logo>https://labogoku.github.io//images/avatar.png</logo>
     <icon>https://labogoku.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, labogoku</rights>
+    <rights>All rights reserved 2019, Labogoku</rights>
     <entry>
         <title type="html"><![CDATA[UI-移动端]]></title>
         <id>https://labogoku.github.io//post/ui-yi-dong-duan</id>

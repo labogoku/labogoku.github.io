@@ -463,6 +463,7 @@ body {
 }
 a {
   color: rgba(0, 0, 0, 0.98);
+  font-family: "Gill Sans", sans-serif;
   text-decoration: none;
 }
 a:hover {
@@ -595,7 +596,8 @@ td {
   margin: 0 0 10px;
   font-size: 28px;
   font-weight: 300;
-  color: hsla(0, 0%, 100%, 0.68);
+  color: #333;
+  font-family: "Gill Sans", sans-serif;
 }
 .info_main .info_nav {
   margin-top: 42px;
@@ -707,6 +709,7 @@ td {
 .navigation a {
   font-size: 18px;
   font-weight: 700;
+  font-family: "Gill Sans", sans-serif;
   text-decoration: none;
   text-transform: uppercase;
   color: rgba(0, 0, 0, 0.98);
