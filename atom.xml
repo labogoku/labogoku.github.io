@@ -2,46 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://labogoku.github.io/</id>
     <title>Labogoku</title>
-    <updated>2020-11-14T15:21:36.273Z</updated>
+    <updated>2021-02-06T13:08:48.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://labogoku.github.io/"/>
-    <link rel="self" href="https://labogoku.github.io//atom.xml"/>
-    <logo>https://labogoku.github.io//images/avatar.png</logo>
-    <icon>https://labogoku.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2020, Labogoku</rights>
-    <entry>
-        <title type="html"><![CDATA[UI-移动端/小程序]]></title>
-        <id>https://labogoku.github.io//post/ui-yi-dong-duan</id>
-        <link href="https://labogoku.github.io//post/ui-yi-dong-duan">
-        </link>
-        <updated>2019-11-18T21:02:47.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[核桃编程iPad客户端]]></title>
-        <id>https://labogoku.github.io//post/he-tao-bian-cheng-ipad-ke-hu-duan</id>
-        <link href="https://labogoku.github.io//post/he-tao-bian-cheng-ipad-ke-hu-duan">
-        </link>
-        <updated>2019-11-18T20:57:57.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[核桃编程PC客户端]]></title>
-        <id>https://labogoku.github.io//post/he-tao-bian-cheng-pc-ke-hu-duan</id>
-        <link href="https://labogoku.github.io//post/he-tao-bian-cheng-pc-ke-hu-duan">
-        </link>
-        <updated>2019-11-18T10:01:54.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UI-web端]]></title>
-        <id>https://labogoku.github.io//post/ui-web-duan</id>
-        <link href="https://labogoku.github.io//post/ui-web-duan">
-        </link>
-        <updated>2019-11-01T14:34:58.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[运营图/活动H5/Banner]]></title>
-        <id>https://labogoku.github.io//post/yun-ying-tu-huo-dong-h5banner</id>
-        <link href="https://labogoku.github.io//post/yun-ying-tu-huo-dong-h5banner">
-        </link>
-        <updated>2019-10-30T15:36:26.000Z</updated>
-    </entry>
+    <link rel="self" href="https://labogoku.github.io/atom.xml"/>
+    <logo>https://labogoku.github.io/images/avatar.png</logo>
+    <icon>https://labogoku.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, Labogoku</rights>
 </feed>
