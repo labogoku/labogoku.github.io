@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://labogoku.github.io/</id>
     <title>Labogoku</title>
-    <updated>2021-02-09T14:05:13.699Z</updated>
+    <updated>2021-02-10T13:35:40.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://labogoku.github.io/"/>
     <link rel="self" href="https://labogoku.github.io/atom.xml"/>
     <logo>https://labogoku.github.io/images/avatar.png</logo>
     <icon>https://labogoku.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Labogoku</rights>
+    <entry>
+        <title type="html"><![CDATA[2月10日]]></title>
+        <id>https://labogoku.github.io/post/2-yue-10-ri/</id>
+        <link href="https://labogoku.github.io/post/2-yue-10-ri/">
+        </link>
+        <updated>2021-02-10T12:19:25.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2月9日]]></title>
         <id>https://labogoku.github.io/post/2-yue-9-ri/</id>
