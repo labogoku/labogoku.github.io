@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://labogoku.github.io/</id>
     <title>Labogoku</title>
-    <updated>2021-02-23T15:46:52.229Z</updated>
+    <updated>2021-02-23T16:16:08.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://labogoku.github.io/"/>
     <link rel="self" href="https://labogoku.github.io/atom.xml"/>
     <logo>https://labogoku.github.io/images/avatar.png</logo>
     <icon>https://labogoku.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Labogoku</rights>
+    <entry>
+        <title type="html"><![CDATA[2月23日]]></title>
+        <id>https://labogoku.github.io/post/2-yue-23-ri/</id>
+        <link href="https://labogoku.github.io/post/2-yue-23-ri/">
+        </link>
+        <updated>2021-02-23T15:46:59.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2月22日]]></title>
         <id>https://labogoku.github.io/post/2-yue-22-ri/</id>
@@ -71,12 +78,5 @@
         <link href="https://labogoku.github.io/post/2-yue-7-ri/">
         </link>
         <updated>2021-02-07T13:43:08.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2月6日]]></title>
-        <id>https://labogoku.github.io/post/2-yue-6-ri/</id>
-        <link href="https://labogoku.github.io/post/2-yue-6-ri/">
-        </link>
-        <updated>2021-02-06T13:09:50.000Z</updated>
     </entry>
 </feed>
